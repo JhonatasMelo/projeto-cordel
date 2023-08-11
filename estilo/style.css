@@ -23,7 +23,7 @@ html body {
 
 header {
     background-color: black;
-    color: white;
+    color: antiquewhite;
     text-align: center;
     font-family: var(--fonte2);
 }
@@ -33,15 +33,18 @@ header > h1 {
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 6vw;
+    
 
 }
+
 
 header > p {
     padding-bottom: 50px;
+    
 }
 
 header a, footer a {
-    color: white;
+    color: antiquewhite;
     text-decoration: none;
     font-weight: bolder;
 }
@@ -97,7 +100,7 @@ section#img02 {
 
 footer {
     background-color: black;
-    color: white;
+    color: cyan;
     text-align: center;
     padding: 10px;
 }
